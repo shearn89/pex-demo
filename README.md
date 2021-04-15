@@ -4,6 +4,9 @@ This repo simply demonstrates how you can build a self-contained PEX file with b
 
 Mostly because the PEX documentation sucks.
 
+Full tutorial write up [here](TUTORIAL.md)
+
 ## Building/Running ##
 
 Just run `make`, then run `./pexDemo.pex`
+
